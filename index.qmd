@@ -1,5 +1,5 @@
 ---
-title: "quarto-site-step-by-step"
+title: "Welcome to my website!"
 listing:
   contents: posts
   sort: "date desc"
